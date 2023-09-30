@@ -1,0 +1,24 @@
+*{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#titre{
+    margin-top: 10px;
+}
+
+ul{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#infoG{
+    color: aqua;
+}
